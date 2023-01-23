@@ -6,5 +6,3 @@ for (int i = 0; i < new Random().Next(0, 3); i++)
     array1[i] = array[new Random().Next(0, array.Length-1)];
 }
 Console.WriteLine($"{string.Join(" ",array1)}");
-
-// Файл README добавлен в репозиторий
