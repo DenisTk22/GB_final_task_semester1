@@ -1,0 +1,15 @@
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\Final DZ\DZ\bin\Debug\net7.0\DZ.exe
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\Final DZ\DZ\bin\Debug\net7.0\DZ.deps.json
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\Final DZ\DZ\bin\Debug\net7.0\DZ.runtimeconfig.json
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\Final DZ\DZ\bin\Debug\net7.0\DZ.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\Final DZ\DZ\bin\Debug\net7.0\DZ.pdb
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\Final DZ\DZ\obj\Debug\net7.0\DZ.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\Final DZ\DZ\obj\Debug\net7.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\Final DZ\DZ\obj\Debug\net7.0\DZ.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\Final DZ\DZ\obj\Debug\net7.0\DZ.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\Final DZ\DZ\obj\Debug\net7.0\DZ.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\Final DZ\DZ\obj\Debug\net7.0\DZ.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\Final DZ\DZ\obj\Debug\net7.0\refint\DZ.dll
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\Final DZ\DZ\obj\Debug\net7.0\DZ.pdb
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\Final DZ\DZ\obj\Debug\net7.0\DZ.genruntimeconfig.cache
+C:\Users\Denis\Desktop\Обучение GB\1 Пакет Разработчик\1 четверть\Final DZ\DZ\obj\Debug\net7.0\ref\DZ.dll
